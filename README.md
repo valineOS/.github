@@ -7,14 +7,4 @@
     <strong>valineOS</strong> is a project focused on low latency and system stability.<br>
     We strip Microsoft bloatware while keeping essential features intact.
   </p>
-  
-  <p>
-    <a href="https://timinside.github.io/valineos">
-      <img src="https://img.shields.io/badge/WEBSITE-VISIT-977040?style=for-the-badge" alt="Website">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://timinside.github.io/valinehub">
-      <img src="https://img.shields.io/badge/VALINEHUB-DOWNLOAD-977040?style=for-the-badge&logo=windows&logoColor=white" alt="ValineHub">
-    </a>
-  </p>
 </div>
