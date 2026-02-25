@@ -10,7 +10,7 @@
   
   <p>
     <a href="https://timinside.github.io/valineos">
-      <img src="https://img.shields.io/badge/WEBSITE-VISIT-181818?style=for-the-badge" alt="Website">
+      <img src="https://img.shields.io/badge/WEBSITE-VISIT-977040?style=for-the-badge" alt="Website">
     </a>
     &nbsp;&nbsp;
     <a href="https://timinside.github.io/valinehub">
