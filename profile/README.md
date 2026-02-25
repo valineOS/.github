@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="640" alt="valineOSBanner" src="https://github.com/user-attachments/assets/30718d4a-7e46-4db8-acf0-974511f583a7" />
-  
+  <img width="640" alt="valineOS Banner is loading..." src="https://github.com/user-attachments/assets/134f9333-16f9-4162-8422-cf2a0bbc61fb" />
+
 #
   
   <p>
